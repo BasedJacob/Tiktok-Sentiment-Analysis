@@ -1,0 +1,44 @@
+lexicalBase:
+              precision    recall  f1-score   support
+
+    Negative       0.78      0.30      0.43     44912
+     Neutral       0.11      0.30      0.16     11652
+    Positive       0.60      0.72      0.66     44912
+
+    accuracy                           0.48    101476
+   macro avg       0.50      0.44      0.42    101476
+weighted avg       0.63      0.48      0.50    101476
+
+bertBase:
+              precision    recall  f1-score   support
+
+    Negative       0.46      0.51      0.49      1931
+     Neutral       0.11      0.31      0.16       486
+    Positive       0.90      0.80      0.85     10078
+
+    accuracy                           0.73     12495
+   macro avg       0.49      0.54      0.50     12495
+weighted avg       0.80      0.73      0.76     12495
+
+lexicalBootstrap:
+              precision    recall  f1-score   support
+
+    Negative       0.63      0.52      0.57     13421
+     Neutral       0.10      0.21      0.14      3434
+    Positive       0.67      0.61      0.64     13588
+
+    accuracy                           0.53     30443
+   macro avg       0.47      0.45      0.45     30443
+weighted avg       0.59      0.53      0.55     30443
+
+bertTraining:
+              precision    recall  f1-score   support
+
+    Negative       0.67      0.59      0.63       849
+     Neutral       0.29      0.23      0.26       219
+    Positive       0.63      0.74      0.68       807
+
+    accuracy                           0.61      1875
+   macro avg       0.53      0.52      0.52      1875
+weighted avg       0.61      0.61      0.61      1875
+

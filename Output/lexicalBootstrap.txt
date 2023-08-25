@@ -1,0 +1,26 @@
+698880 words total, with a vocabulary size of 43805
+
+iteration 1
+num additions to lexicon: 113
+
+iteration 2
+num additions to lexicon: 84
+
+iteration 3
+num additions to lexicon: 110
+
+iteration 4
+num additions to lexicon: 150
+
+iteration 5
+num additions to lexicon: 150
+              precision    recall  f1-score   support
+
+    Negative       0.63      0.52      0.57     13421
+     Neutral       0.10      0.21      0.14      3434
+    Positive       0.67      0.61      0.64     13588
+
+    accuracy                           0.53     30443
+   macro avg       0.47      0.45      0.45     30443
+weighted avg       0.59      0.53      0.55     30443
+

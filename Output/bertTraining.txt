@@ -1,0 +1,61 @@
+[5628, 1400, 5467]
+Epoch 1/10
+----------
+Train loss 0.8814664633988898 accuracy 0.5979876514978276
+Val   loss 0.8027611662775783 accuracy 0.6542155816435432
+
+Epoch 2/10
+----------
+Train loss 0.7967934773543635 accuracy 0.6599588383260919
+Val   loss 0.7796088027752052 accuracy 0.6670224119530417
+
+Epoch 3/10
+----------
+Train loss 0.7074032174167947 accuracy 0.7133546764235079
+Val   loss 0.8385183202513193 accuracy 0.6494130202774814
+
+Epoch 4/10
+----------
+Train loss 0.608072620777369 accuracy 0.7680082323347817
+Val   loss 0.9327150550434145 accuracy 0.6510138740661686
+
+Epoch 5/10
+----------
+Train loss 0.5170064157035059 accuracy 0.8021952892750972
+Val   loss 1.0306189060211182 accuracy 0.6392742796157951
+
+Epoch 6/10
+----------
+Train loss 0.4472358122100233 accuracy 0.8276926595014864
+Val   loss 1.1595673816183867 accuracy 0.6510138740661686
+
+Epoch 7/10
+----------
+Train loss 0.39293002999188475 accuracy 0.8479304825062886
+Val   loss 1.3486625547126188 accuracy 0.6296691568836713
+
+Epoch 8/10
+----------
+Train loss 0.35414454559208164 accuracy 0.8643951520695176
+Val   loss 1.480355530472125 accuracy 0.6382070437566703
+
+Epoch 9/10
+----------
+Train loss 0.325095590627948 accuracy 0.872513148868054
+Val   loss 1.588321827225766 accuracy 0.6323372465314835
+
+Epoch 10/10
+----------
+Train loss 0.31063096732296175 accuracy 0.8783443860050308
+Val   loss 1.6194900334891627 accuracy 0.6350053361792957
+
+              precision    recall  f1-score   support
+
+    negative       0.67      0.59      0.63       849
+     neutral       0.29      0.23      0.26       219
+    positive       0.63      0.74      0.68       807
+
+    accuracy                           0.61      1875
+   macro avg       0.53      0.52      0.52      1875
+weighted avg       0.61      0.61      0.61      1875
+

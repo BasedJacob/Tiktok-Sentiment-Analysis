@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+transformers
+requests
+scikit-learn
+nltk

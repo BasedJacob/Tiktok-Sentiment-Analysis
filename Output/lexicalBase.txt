@@ -1,0 +1,11 @@
+1001380 words total, with a vocabulary size of 56339
+              precision    recall  f1-score   support
+
+    Negative       0.78      0.30      0.43     44912
+     Neutral       0.11      0.30      0.16     11652
+    Positive       0.60      0.72      0.66     44912
+
+    accuracy                           0.48    101476
+   macro avg       0.50      0.44      0.42    101476
+weighted avg       0.63      0.48      0.50    101476
+
